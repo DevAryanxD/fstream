@@ -1,0 +1,18 @@
+# Bot dependencies
+aiohttp
+pyrofork
+python-dotenv
+tgcrypto
+motor
+aiofiles
+dnspython
+requests
+jinja2
+
+# Flask API dependencies
+flask==2.2.2
+flask-cors==4.0.1
+flask-caching==2.1.0
+tmdbv3api==1.9.0
+redis==5.0.8
+gunicorn==20.1.0  # For production
